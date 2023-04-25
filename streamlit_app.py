@@ -1,4 +1,5 @@
 import streamlit
+import snowflakke.connector
 
 streamlit.header("My mom's new Healthy Breakfast")
 
